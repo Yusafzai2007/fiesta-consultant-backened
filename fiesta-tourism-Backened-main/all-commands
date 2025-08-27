@@ -1,0 +1,21 @@
+github
+cd C:\Users\SCS\Desktop\second-folder
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Yousafzi2007/second-project.git
+git branch -M main
+git push -u origin main
+
+angular
+
+node -v
+npm -v
+npm install -g @angular/cli
+ng version
+ng new my-app
+cd my-app
+ng serve -o
+
+
+
